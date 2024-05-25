@@ -10,7 +10,7 @@ function Header() {
       </Link>
 
       <SearchOrder />
-      <Username />
+      <Username /> 
     </header>
   );
 }
